@@ -1,0 +1,9 @@
+Data Source: Amsterdam availability data scraped from AirBnB on December 24th. Question: What are the popular neighborhoods in Amsterdam?
+Heather Analysis:  The data collected on December 24 will be skewed since it was collected under Exceptional Circumstances.  This is the day before Christmas and a lot of people travel for the holidays.  Collecting the data on Christmas Eve would not give the complete picture of the trends during the rest of the year.
+
+Data Source: Mental health services use on September 12, 2001 in San Francisco, CA and New York City, NY. Question: How do patterns of mental health service use vary between cities?
+Heather Analysis:  THe data would be looking at the use of mental health services on the day after the terrorist attacks on 9/11.  This data would be extremely skewed as NYC was heavily impacted and there were extreme amounts of high stress and traumatic occurences.
+
+Data Source: Armenian Pub Survey. Question: What are the most common reasons Armenians visit local pubs?
+Heather Analysis:  Based on the data set, it looks that the most common reasons Armenians visit local pubs is for the environment and to visit with friends.  
+The data leads us to believe that is for the social aspect that Armenians visit local pubs.
