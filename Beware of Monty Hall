@@ -1,0 +1,24 @@
+The whole premise of this problem is that I am on a game show and there is a chance to win a fantastic prize.  I have the option of
+choosing between 3 different prizes behind 3 different doors.  Behind 1 of the doors is the big prize (car, cash, etc); however, the prizes
+behind the 2 other doors are duds.  I select a door, but then the host says that they will open one of the 2 other doors (that you did not choose) to 
+eliminate one.  They open one of the doors and it's one of the duds of a prize.  The host says that they will give me the option of to change my choice, 
+What do I do?
+
+I have a 1 out of 3 chance to win the main prize.  There are 3 doors and behind 1 of the doors is the grand prize = 1/3
+Door A, Door B and Door C
+I am going to go with Door B
+The host then takes Door B and Door C and opens Door C.  There is a screaming goat behing Door C.
+The host now says that I can go with my selection of Door B or can use this chance to switch my choice.  
+
+Door A is 1/3
+Door B and Door C is 2/3
+
+We remove Door C, which removes 1/3 out of the Door B and Door C grouping
+
+My original chances of winning between the Door B and Door C grouping is 2/3.  Removing Door C from the mix, takes out an additional 1/3. 
+However, door A still has a 1/3 chance
+
+Door A (1/3) + Door B (1/3) = 2/3
+
+I am not going to change my choice, I have the same chance of winning with my original selection of Door B - even with the opening of Door C
+
